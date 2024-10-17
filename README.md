@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Development, focusing on web and app development.  
 - 💞️ I’m looking to collaborate on open-source projects and innovative coding challenges.  
 - 📫 How to reach me: [https://instagram.com/rathodmanthann]  
-- 😄 Pronouns: [He]  
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love reading books, playing chess and staying updated with the latest tech trends.
 
 <!---
