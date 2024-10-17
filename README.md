@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and exploring new technologies.  
 - 🌱 I’m currently learning Development. 
 - 💞️ I’m looking to collaborate on open-source projects and innovative coding challenges.  
-- 📫 How to reach me: [https://instagram.com/rathodmanthann]  
+- 📫 How to reach me: https://instagram.com/rathodmanthann  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love reading books, playing chess and staying updated with the latest tech trends.
 
