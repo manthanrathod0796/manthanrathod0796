@@ -1,4 +1,5 @@
-## 👋🏽 Myself Manthan Rathod, I am Software Engineer From India.
+# 👋🏽 Myself Manthan Rathod, I am Software Engineering.
+# B.Tech in Computer Science ( From Shah And Anchor Kuttchhi College of Engineering , Mumbai )
 
 [![](https://visitcount.itsvg.in/api?id=manthan0796&icon=1&color=0)](https://visitcount.itsvg.in)
 
